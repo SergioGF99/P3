@@ -20,4 +20,5 @@
 
 **Flujos alternativos:**  
 1.a. Si introducimos un alumno categorizado como "líder" en un grupo que ya tiene un líder, el sistema mostrará un mensaje de error.
+
 2.a. Si el usuario no introduce nada en los campos equipo y lider, el sistema no mostrará ningun error, ya que esos campos son opcionales.
