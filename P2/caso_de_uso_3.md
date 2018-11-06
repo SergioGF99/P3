@@ -8,8 +8,7 @@
 **Actores secundarios:** Alumno
 
 **Precondiciones:**
-1. El Apellido introducido no puede coincidir con ninguno existente.
-2. El DNI introducido no puede coincidir con ninguno existente.
+1. El usuario tiene que tener datos que modificar.
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario quiere modificar un alumno.
