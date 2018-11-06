@@ -13,8 +13,8 @@ El sistema dará la posibilidad al usuario de visualizar el contenido
 ## REVERSO
 ---
 
-* Podrá mostrar todos alfabéticamente por apellido
-* Podrá mostrar a todos por DNI
-* Podrá ordenar de forma ascendente o descendente la información que se muestre
+* Podrá mostrar a un alumno, ya sea por apellido o DNI.
+* Podrá mostrar todos alfabéticamente por apellido o por DNI.
+* Podrá ordenar de forma ascendente o descendente la información que se muestre.
 
 ---
