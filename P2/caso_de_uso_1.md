@@ -9,7 +9,6 @@
 
 **Precondiciones:**
 1. El usuario debe tener datos que añadir de un alumno.
-2. 
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario quiere introducir un nuevo alumno.
