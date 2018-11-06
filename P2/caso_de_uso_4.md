@@ -20,6 +20,5 @@
 2. Se actualizarán los datos en el fichero binario.
 
 **Flujos alternativos:**  
-1.a. Si se desea eliminar por apellido y hay varios alumnos con el mismo apellido, el sistema automaticamente pedirá el DNI del alumno que concreto que se desea eliminar
-
+1.a. Si se desea eliminar por apellido y hay varios alumnos con el mismo apellido, el sistema automaticamente pedirá el DNI del alumno que concreto que se desea eliminar.  
 2.a. Si el alumno que se desea eliminar es lider de un grupo, el sistema mostrará un mensaje de advertencia indicando que el grupo al que pertenecia ya no tiene lider, pero no dará ningún error.
