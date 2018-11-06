@@ -25,4 +25,5 @@
  3.b. Si el DNI que se desean modificar coindice con el de otro alumno, el sistema impedirá que se guarden esos datos mostrando un error y pedirá unos datos nuevos.
  
  3.c. Si el alumno que se desea modificar es el lider, el sistema mostrará un mensaje diciendo que el alumno que se está modificando es lider.
-  
+ 
+ 3.d Si un alumno que no era lider se modifica para que lo sea y en ese grupo y hay un lider, se mostrará un mensaje indicando si quiere que se sustituya el lider actual.
