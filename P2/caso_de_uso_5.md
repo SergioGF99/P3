@@ -19,4 +19,5 @@
 * El sistema mostrará una lista con los datos de todos los alumnos.
 
 **Flujos alternativos:**
+
 1.a. Si los datos que se muestran corresponden a todos los alumnos, estos podrán ser ordenados de forma ascendente o descendente, ya sea por apellidos o por DNI. 
