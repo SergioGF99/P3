@@ -25,4 +25,4 @@
  
  3.c. Si el alumno que se desea modificar es el lider, el sistema mostrará un mensaje diciendo que el alumno que se está modificando es lider.
  
- 3.d Si un alumno que no era lider se modifica para que lo sea y en ese grupo y hay un lider, se mostrará un mensaje indicando si quiere que se sustituya el lider actual.
+ 3.d Si un alumno que no era lider se modifica para que lo sea, y en ese grupo ya hay un lider, se mostrará un mensaje indicando si quiere que se sustituya el lider actual.
