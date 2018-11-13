@@ -18,7 +18,7 @@
 2. El sistema busca los datos del alumno.
 
 **Postcondiciones:**
-* El sistema muestra los datos del alumno por pantalla.
+* El sistema muestra un mensaje de éxito al encontrar en el sistema al alumno.
 
 **Flujos alternativos:**
 
