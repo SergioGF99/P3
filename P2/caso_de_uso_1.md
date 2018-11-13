@@ -18,8 +18,8 @@
 * Queda almacenada la información del nuevo alumno.
 
 **Flujos alternativos:**  
-1.a. Si introducimos un alumno categorizado como "líder" en un grupo que ya tiene un líder, el sistema mostrará un mensaje de error.
+1.a. Si introducimos un alumno categorizado como "líder" en un grupo que ya tiene un líder, el sistema mostrará un mensaje de error y redireccionará al usuario al menú principal.
 
-1.b. Si introducimos un nuevo alumno cuando ya hay 150 alumnos, el sistema mostrará un mensaje de error.
+1.b. Si introducimos un nuevo alumno cuando ya hay 150 alumnos, el sistema mostrará un mensaje de error, y redireccionará al usuario al menú principal.
 
-2.a. Si el usuario no introduce nada en los campos equipo y lider, el sistema no mostrará ningun error, ya que esos campos son opcionales.
+2.a. Si el usuario no introduce nada en los campos equipo y lider, el sistema no mostrará ningun error, ya que esos campos son opcionales, por lo que redireccionará al usuario al menú principal.
